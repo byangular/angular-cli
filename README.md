@@ -2,7 +2,7 @@
 
 <br />
 
-## 🤨 What is Angular ?
+## 🤔 What is Angular ?
 
 Angular is an app-design framework and development platform for creating efficient and sophisticated single-page apps.
 
